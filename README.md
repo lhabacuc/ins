@@ -11,5 +11,5 @@ Certifique-se de ter o [Git](https://git-scm.com/) e [Bash](https://www.gnu.org/
 1. Clone o repositório e instale:
 
    ```bash
-   git clone https://github.com/lhabacuc/ins.git && cd ins && bash install.sh
+   git clone https://github.com/lhabacuc/ins.git && cd ins && bash install.sh && cd -
 
